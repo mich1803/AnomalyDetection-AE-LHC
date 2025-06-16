@@ -53,4 +53,4 @@ You can explore the full pipeline interactively on Google Colab:
 ## 👥 Authors
 
 *Michele Magrini* (2066963)  
-*Julian Hendrix* (Student ID)
+*Julian Hendrix* (2090880)
